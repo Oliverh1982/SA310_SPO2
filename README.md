@@ -1,2 +1,5 @@
 # SA310_SPO2
-Trying to get SPO2 value of Rossmax SA310, now only implement connection part.
+The code can get SpO2 value from Rossmax SA310.
+Need to have BT4.0 on your PC.
+
+When measuring, please enable BT functoin of Rossmax SA310 
